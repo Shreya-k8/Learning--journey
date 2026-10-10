@@ -12,3 +12,7 @@
 
 ### ☕ Java Mentorship
 - Pre-Java foundation sessions ongoing (Java starts Monday).
+## Day 17 - 10 Oct 2026
+- Practiced Python loops (printing squares).
+- Added a Reset button to my website (4 buttons total).
+- Practiced my Innovation presentation out loud.
