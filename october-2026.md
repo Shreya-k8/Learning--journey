@@ -16,3 +16,12 @@
 - Practiced Python loops (printing squares).
 - Added a Reset button to my website (4 buttons total).
 - Practiced my Innovation presentation out loud.
+## Day 19 - 12 Oct 2026
+
+### 🐍 Python & DSA
+- Practiced loops with conditions (sum of even numbers).
+
+### ☕ Java Mentorship
+- Attended Day 1 of the core Java course.      
+### 🚀 Extracurricular
+- Registered for an online hackathon.
