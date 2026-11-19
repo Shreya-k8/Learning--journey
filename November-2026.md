@@ -10,3 +10,9 @@
 - Added a greeting input feature to my website using JavaScript.
 - Learned how to use AI as a coding tutor.
 - Fixed a Java compilation error (importing Scanner).
+
+## Day 3 - 19 Nov 2026
+- Learned the `split()` method to break sentences into words.
+- Learned the `isdigit()` method to identify numbers in a string.
+- Debugged Java compilation errors (Scanner import).
+- Explored ideas for a Voice AI Hackathon.
